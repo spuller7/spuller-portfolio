@@ -9,6 +9,7 @@ There are two options as a visiter to view my work.
 
 1) You may view my scripts via projects they are included.
 	-This can be accessed by viewing the projects folder
+
 2) You may view my scripts via the language the scripts are programmed in.
 	-This can be accessed by viewing the languages folder 
 
