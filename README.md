@@ -1,7 +1,7 @@
 =-=-=-=-=-=-=-=
 Travis Spuller
 Programming Portfolio
-Last Updated: 8.2.2016
+Last Updated: 10.26.2016
 =-=-=-=-=-=-=-=
 
 Hi! Welcome to my programming portfolio.  I want to describe how this portfolio is laid out.
@@ -25,4 +25,3 @@ in codecademy.org:
 -HTML
 -CSS
 -PHP
-~~Ruby (so little)
